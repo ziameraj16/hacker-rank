@@ -1,0 +1,15 @@
+target/
+.idea/
+logs/
+*.class
+.classpath
+.project
+.settings
+bin
+*.iml
+*.DS_Store
+actual.xml
+delta.xml
+*.ipr
+*.iws
+
