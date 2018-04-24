@@ -16,15 +16,15 @@ Day Shared Liked Cumulative
 5     18     9      24
 ```
 The cumulative number of likes is 24.
-###Input Format
+### Input Format
 A single integer, n , denoting a number of days.
-###Output Format
+### Output Format
 Print the number of people who liked the advertisement during the first n days.
-###Sample Input
+### Sample Input
 ```
 3
 ```
-###Sample Output
+### Sample Output
 ```
 9
 ```
